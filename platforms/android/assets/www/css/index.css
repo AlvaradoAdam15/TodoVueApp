@@ -113,3 +113,22 @@ h1 {
     animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
 }
+#task {
+    margin: 2em 0;
+}
+
+li button {
+    font-weight: bold;
+
+    background: none;
+
+    border: 0;
+
+    color: red;
+
+    padding: 0;
+
+    float: right;
+
+    margin-left: 10px;
+}
