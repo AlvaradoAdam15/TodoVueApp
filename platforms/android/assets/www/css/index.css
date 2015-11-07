@@ -41,7 +41,6 @@ body {
     height:100%;
     margin:0px;
     padding:0px;
-    text-transform:uppercase;
     width:100%;
 }
 
@@ -112,23 +111,4 @@ h1 {
 .blink {
     animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
-}
-#task {
-    margin: 2em 0;
-}
-
-li button {
-    font-weight: bold;
-
-    background: none;
-
-    border: 0;
-
-    color: red;
-
-    padding: 0;
-
-    float: right;
-
-    margin-left: 10px;
 }
